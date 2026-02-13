@@ -1,4 +1,3 @@
-cat > README.md <<'EOF'
 # Maternal Care Monitoring Dashboard (Power BI + Snowflake)
 
 This project demonstrates an end-to-end analytics workflow using **Snowflake (data source + SQL curation)** and **Power BI (data cleaning, DAX measures, interactive dashboard)**.
