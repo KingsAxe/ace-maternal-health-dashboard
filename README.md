@@ -19,6 +19,11 @@ Program teams often lack a fast, consistent way to inspect:
 This dashboard provides an interactive snapshot to support monitoring, targeting discussions, and data quality improvement.
 
 ---
+## Dashboard Preview
+
+![Maternal Care Monitoring Dashboard](docs/screenshots/01.png)
+
+---
 
 ## Data Source
 
@@ -29,7 +34,5 @@ This dashboard provides an interactive snapshot to support monitoring, targeting
 
  Marketplace/shared databases are **read-only**, so curated objects must be created in your own database.
 
----
 
-## What’s in this repo
 
