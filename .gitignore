@@ -1,0 +1,20 @@
+cat > .gitignore <<'EOF'
+# Power BI autosave / temp
+*.tmp
+*.bak
+*.log
+
+# Windows junk
+Thumbs.db
+Desktop.ini
+
+# Mac junk
+.DS_Store
+
+# Python / notebooks (optional)
+__pycache__/
+.ipynb_checkpoints/
+
+# Secrets (if any)
+.env
+EOF
